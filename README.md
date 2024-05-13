@@ -1,2 +1,3 @@
 # DS18B20
-Use DS18B20 temperature sensors with RPi
+Use DS18B20 temperature sensors with RPi.
+This repo includes simple demp code.
