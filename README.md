@@ -1,7 +1,8 @@
 # DS18B20
-Use DS18B20 temperature sensors with RPi.
+Use DS18B20 1-wire temperature sensors with RPi.
 
 This repo includes simple demo code based on code by Scott Campbell, Circuit Basics.
+
 Enable 1W interface in RPi config and reboot.
 
 The image below shows DS18B20 based temperature sensor wired into a CM4 IO Board. It also shows a BME280 (dfifferent project!).
